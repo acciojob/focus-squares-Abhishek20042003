@@ -11,7 +11,7 @@ all.forEach.((box)=>{
 			}
 		}
 		
-	})
+	});
 
 		box.addEventListener("mouseout", function handler(){
 		all.forEach(box=>{
@@ -19,5 +19,4 @@ all.forEach.((box)=>{
 			
 		})
 		
-	})
-})
+	});
