@@ -15,7 +15,7 @@ all.forEach.((box)=>{
 
 		box.addEventListener("mouseout", function handler(){
 		all.forEach(box=>{
-			box.styel.background = '#E6E6FA'
+			box.style.backgroundcolor = '#E6E6FA'
 			
 		})
 		
